@@ -1,0 +1,1 @@
+test('Wikipedia',[setup(assert_nth0_puzzle(0)), cleanup(reset_puzzle)]):- test_puzzle, !.
